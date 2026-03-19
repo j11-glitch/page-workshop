@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+         <loc>https://j11-glitch.github.io/page-workshop/</loc>
+         <lastmod>2026-03-19</lastmod>
+    </url>
+    <url>
+         <loc>https://j11-glitch.github.io/page-workshop/exercise-di/</loc>
+         <lastmod>2026-03-19</lastmod>
+    </url>
+    <url>
+         <loc>https://j11-glitch.github.io/page-workshop/exercise-hello-spring/</loc>
+         <lastmod>2026-03-19</lastmod>
+    </url>
+    <url>
+         <loc>https://j11-glitch.github.io/page-workshop/exercise-rest/</loc>
+         <lastmod>2026-03-19</lastmod>
+    </url>
+</urlset>
