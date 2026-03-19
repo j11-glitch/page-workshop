@@ -1,6 +1,6 @@
 # Spring Framework Workshop
 
-A hands-on workshop site built with MkDocs + Material theme, deployed on GitHub Pages.
+A hands-on workshop site built with MkDocs + Material theme, deployed on GitHub Pages. Test
 
 ## Local development
 
