@@ -1,0 +1,26 @@
+site_name: Spring Framework Workshop
+site_url: https://YOUR_USERNAME.github.io/spring-workshop/
+
+theme:
+  name: material
+  palette:
+    primary: deep purple
+    accent: purple
+  features:
+    - navigation.tabs
+    - navigation.top
+    - content.code.copy
+
+markdown_extensions:
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.superfences
+  - admonition
+  - pymdownx.details
+
+nav:
+  - Home: index.md
+  - Exercises:
+    - "1. Hello Spring": exercise-hello-spring.md
+    - "2. Dependency Injection": exercise-di.md
+    - "3. REST API": exercise-rest.md
